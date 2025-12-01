@@ -1,0 +1,16 @@
+{
+    "results": [
+        {
+            "permission": "view network connections",
+            "type": "Other"
+        },
+        {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
+            "type": "Other"
+        }
+    ]
+}

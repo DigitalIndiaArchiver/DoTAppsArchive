@@ -1,0 +1,42 @@
+{
+    "results": {
+        "sharedData": [],
+        "collectedData": [
+            {
+                "data": "Files and docs",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Files and docs"
+            },
+            {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Location"
+            },
+            {
+                "data": "Photos",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Photos and videos"
+            },
+            {
+                "data": "Videos",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Photos and videos"
+            }
+        ],
+        "securityPractices": [
+            {
+                "practice": "Data is encrypted in transit",
+                "description": "Your data is transferred over a secure connection"
+            },
+            {
+                "practice": "Data can\u2019t be deleted",
+                "description": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        ],
+        "privacyPolicyUrl": "https://privacypolicy.tnschools.gov.in/monitoring-privacy.html"
+    }
+}

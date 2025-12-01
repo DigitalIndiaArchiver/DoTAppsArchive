@@ -1,0 +1,24 @@
+{
+    "results": {
+        "sharedData": [],
+        "collectedData": [
+            {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Location"
+            }
+        ],
+        "securityPractices": [
+            {
+                "practice": "Data is encrypted in transit",
+                "description": "Your data is transferred over a secure connection"
+            },
+            {
+                "practice": "Data can\u2019t be deleted",
+                "description": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        ],
+        "privacyPolicyUrl": "https://privacypolicy.tnschools.gov.in/school_privacy.html"
+    }
+}

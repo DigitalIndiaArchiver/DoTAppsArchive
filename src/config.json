@@ -1,0 +1,7 @@
+{
+    "GPLAY_BASE_URL": "https://gplayapidev.fly.dev",
+    "REPO_NAME": "https://flatgithub.com/DigitalIndiaArchiver/TNEMISANALYSIS",
+    "REVIEWS_PER_FETCH": 2000,
+    "DEVELOPER_NAME": "TN-EMIS-CELL"
+  }
+  
