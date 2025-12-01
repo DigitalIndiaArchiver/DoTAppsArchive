@@ -1,0 +1,225 @@
+{
+    "devId": "Department of Telecommunications, Govt of India",
+    "apps": [
+        {
+            "title": "Sanchar Saathi",
+            "appId": "com.dot.app.sancharsaathi",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.dot.app.sancharsaathi",
+            "icon": "https://play-lh.googleusercontent.com/toM6L7KLoNFQU7PWd-EW-n7sZjQT17GW_9W8epUa1_54ZnNi6_fkcvwk-bBgyW4Ojcxz",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "1. Sanchar Saathi is a citizen centric initiative of Department of Telecommunications (DoT) to empower mobile subscribers, strengthen their security and increase awareness about citizen centric initiatives. It contains following facilities:<br>Chakshu - Report Suspected Fraud Communication: It facilitates citizens to report the suspected fraud communications with the intention of defrauding telecom service users for cyber-crime, financial frauds, non-bonafide purpose like impersonation or any other misuse through Call, SMS or WhatsApp. <br>Block Your Lost/ Stolen Mobile Handset: It facilitates tracing of the lost/stolen mobile devices. This also facilitates blocking of lost/stolen mobile devices in network of all telecom operators so that lost/stolen devices cannot be used in India. If anyone tries to use the blocked mobile phone, its traceability is generated. <br>Know Mobile Connections in Your Name: It facilitates a mobile subscriber to check the number of mobile connections taken in his/her name. It also facilitates to report the mobile connection(s) which are either not required or not taken by the subscriber.<br>Know genuineness of Your Mobile Handset: It facilitates a mobile subscriber to check the genuineness of mobile handset with the help of International Mobile Equipment Identity (IMEI) number.<br>Report Incoming International Call with Indian Number: It facilitates citizens to report about the international calls received by them with local Indian number (+91-xxxxxxxxxx). Reporting about such calls helps the Government to act against illegal telecom setup. <br>2. Steps to use Mobile App are as follows: <br>User download and install the App and land on the home screen showing about Sanchar Saathi and its services. <br>Registration alert box is shown to user which provides the information about registration requirement by sending a SMS to DoT on 14522. Further, Name of user is captured.<br>App completes the verification of the user by sending an automatic SMS in the background and register the active mobile numbers of the device.<br>Registered user can now access the facilities as detailed above. <br>App will show the mobile numbers registered in the App in various facilities so citizen can choose from this list to utilize various services. <br><br>3. Sanchar Saathi App takes following permissions: <br>a- Call/ SMS Logs: To report any Call/ SMS in facilities offered by Sanchar Saathi App. This allows citizens to fetch the call/ SMS logs in reporting facilities. Citizen can choose from the call/ SMS logs and details about that communication will be auto-populated for ease of reporting. The call/ SMS logs are available in the phone only. Reported call/ CMS details are only sent to DoT.  <br><br>Sanchar Saathi as an app has the functionality of &#39;REPORT SUSPECTED FRAUD CALL/SMS&#39; to help users to automatically fetch the Call/SMS for easy and genuine reporting. <br><br>b- Make &amp; Manage phone calls: To detect mobile numbers in your phone while registration.  <br><br>c- Send SMS: To complete registration by sending the SMS to DoT on 14522. This is done only one time for the registration. Registered mobile numbers are used to choose the registered numbers while reporting in various facilities. Further, mobile numbers associated with the registered mobile numbers are shown in the \u2018Know Mobile Connections in Your Name\u2019 facility.<br><br>Sanchar Saathi as an app has the functionality of &#39;SEND SMS&#39; to help users to automatically sent the SMS  in order to capture the active mobile number in the mobile device for ensuring genuineness of the registered user. <br>     <br>d- Photos &amp; files: To upload the image of Call/ SMS while reporting Call/ SMS or report lost/ stolen mobile handset. <br><br>e- Camera: While scanning the barcode of IMEI to check its genuineness.",
+            "scoreText": "4.6",
+            "score": 4.5932336,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.dot.app.sancharsaathi",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.dot.app.sancharsaathi/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.dot.app.sancharsaathi/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.dot.app.sancharsaathi/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.dot.app.sancharsaathi/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "Call Before u Dig",
+            "appId": "com.bisagn.call_before_you_dig",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.bisagn.call_before_you_dig",
+            "icon": "https://play-lh.googleusercontent.com/4t6V8oGBD2mqYLd68mkFAERxqWZDU1Vg5J6fJRJG4eiOD6ZAfmuhKLNxH5rqr_QEFa0",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "Call Before u Dig Mobile App will provide an interface to digging agencies to enquire about the availability of existing underground utility assets and to inform to utility asset owners about upcoming digging activities, so that both can coordinate to save existing underlying utility assets from damage.<br><br>Suggestions on the app can be sent to dir2@broadbandmission.gov.in",
+            "scoreText": "4.0",
+            "score": 4.04,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.bisagn.call_before_you_dig",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.bisagn.call_before_you_dig/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.bisagn.call_before_you_dig/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.bisagn.call_before_you_dig/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.bisagn.call_before_you_dig/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "Telecom eServices (Beta)",
+            "appId": "com.doteservices",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.doteservices",
+            "icon": "https://play-lh.googleusercontent.com/prxbat6pO-sgMhSwt4Q0fB4S5U9JLGyUoFX9z1GlSgR1tnh4YbH6rwCdnqG1lglikw",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "A single-window mobile platform enables efficient license processing, improves regulatory oversight, enhances service delivery to stakeholders, and strengthens sector governance through transparency and accountability.<br>Key Features:<br>\u2022\tReal-Time Status: Live dashboards for license applications, renewals, and approvals.<br>\u2022\tSingle Sign-On (SSO): Access multiple telecom services with one login.<br>\u2022\tIntegrated Reporting: Licensee, service area, and category-wise reports in one place.<br>\u2022\tAutomated Alerts: Notifications for pending actions, deadlines, and compliance requirements.<br>\u2022\tMultilingual Support: AI Chatbot and portal in multiple languages for wider reach",
+            "scoreText": "4.6",
+            "score": 4.6,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.doteservices",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.doteservices/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.doteservices/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.doteservices/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.doteservices/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "Samriddh Gram",
+            "appId": "com.nbmdot2.surveysaathi20",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.surveysaathi20",
+            "icon": "https://play-lh.googleusercontent.com/DJmmslxY8jasHaXYGhwSCInN5SwuXxMsGouAQeTPc3KNXm0D3BNoR-9LbloaaH8uPyhh",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "Samriddh Gram is a comprehensive mobile application supporting India&#39;s Digital India initiative by facilitating systematic data collection and monitoring of BharatNet infrastructure across rural areas. The app serves government officials, field officers, and Panchayat representatives in assessing and improving digital connectivity in villages and Gram Panchayats.<br><br>Core features include comprehensive survey modules for Block and Gram Panchayat infrastructure assessment, FTTH (Fiber to the Home) connection management tracking Public Institutions, Private Enterprises, and Household connections, and user feedback collection with photo/video documentation. A critical component is the Digital Access Committee (DAC) Status Management system, tracking DAC formation, meeting documentation, and committee status updates across Gram Panchayats.<br><br>The app offers hierarchical location-based navigation from State to Village level, real-time equipment monitoring, offline data collection capabilities, and robust document management supporting various file formats. Security features include role-based access control, encrypted data transmission, and government compliance standards.",
+            "scoreText": "0.0",
+            "score": 0,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.nbmdot2.surveysaathi20",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.surveysaathi20/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.surveysaathi20/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.surveysaathi20/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.surveysaathi20/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "e Mulyankan",
+            "appId": "com.emulyankan.usof",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.emulyankan.usof",
+            "icon": "https://play-lh.googleusercontent.com/_3cVczOuzdDJHcJ5ya5gdf4o2vtT0hIqjv7taqhntHlP_hlJjH_ctlE05fiI5TB7AA",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The e-Mulyankan app (Powered by USOF) is an AI-enabled Mobile Tower Construction Monitoring solution designed for tracking and assessing the progress of mobile tower construction projects",
+            "scoreText": "4.4",
+            "score": 4.409091,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.emulyankan.usof",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.emulyankan.usof/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.emulyankan.usof/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.emulyankan.usof/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.emulyankan.usof/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "DBN CSMS",
+            "appId": "com.nbmdot2.Digital_Bharat_Nidhi_PMIS",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.Digital_Bharat_Nidhi_PMIS",
+            "icon": "https://play-lh.googleusercontent.com/Oxu-eTxjBGT3X7084vWfGTPn01J0Ap19GktGXTfY5rj0mqjUC1ScCH3ufh9KDWgRnA",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The DBN PMIS Mobile App is a unified platform by the Department of Telecommunications, Government of India, that empowers both citizens and stakeholders with real-time access to data and progress under the Digital Bharat Nidhi (DBN) initiative.<br>Designed to improve transparency, planning, and coordination, this app brings together key information from BharatNet, Mobile Towers, and Submarine OFC projects\u2014all in one place.<br><br>Key Features:<br>Unified Dashboard: Access dedicated views for Mobile Towers, BharatNet, and Submarine OFC projects.<br>\u00a0<br>Find My Tower: View DBN tower details in map or grid format\u2014location, traffic, TSP, and more. Integrated with Google Maps for on-ground navigation.<br>\u00a0<br>Real-Time Monitoring: Instant access to KPIs, alerts, inspection data, ticket resolution, and audit tracking for faster decision-making.<br>\u00a0<br>Stakeholder Tools: Secure login-based access for DoT field units, TSPs, and TPAs to manage tickets, view financial data, and streamline audits.<br>\u00a0<br>Public Access: Learn about DBN through FAQs, simplified content, and the ability to view nearby towers\u2014promoting digital awareness and social audit.<br>\u00a0<br>Built for Convenience:<br>Paperless workflows for faster approvals and reporting.<br>\u00a0<br>Open-source technology ensures future-ready customization.<br>\u00a0<br>Secure and role-based access to sensitive project data.<br>\u00a0<br>Whether you\u2019re a telecom stakeholder or a curious citizen, the DBN PMIS app gives you a bird\u2019s-eye view of India\u2019s largest digital connectivity push.",
+            "scoreText": "3.7",
+            "score": 3.6666667,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.nbmdot2.Digital_Bharat_Nidhi_PMIS",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.Digital_Bharat_Nidhi_PMIS/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.Digital_Bharat_Nidhi_PMIS/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.Digital_Bharat_Nidhi_PMIS/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.nbmdot2.Digital_Bharat_Nidhi_PMIS/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "Ek Ped Maa Ke Naam",
+            "appId": "in.gov.usof.ekpedmaakenaam",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.ekpedmaakenaam",
+            "icon": "https://play-lh.googleusercontent.com/8wMfYAq_k2bTSC4V1KZb1p_x1rNBnffyZ9rN82LJCfRSl-T__xGgGGhefxUvetvyBQ",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The &#39;Ek Ped Maa Ke Naam&#39; app is a unique platform where users can input their planted tree information which they dedicated in the honor of their mothers and Mother Earth. This app not only allows users to contribute towards environmental sustainability but also provides a special way to celebrate their bond with their mother. With its user-friendly interface, people can easily upload pictures of the trees they are planting as a tribute to their mothers.<br>By sharing these tree images, users play an active role in promoting ecological responsibility and inspiring others to join this meaningful initiative of planting trees for a greener future.",
+            "scoreText": "4.2",
+            "score": 4.17,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.usof.ekpedmaakenaam",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.ekpedmaakenaam/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.ekpedmaakenaam/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.ekpedmaakenaam/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.ekpedmaakenaam/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "DELHIWTSA24",
+            "appId": "com.delhiwtsa24.attendee",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.delhiwtsa24.attendee",
+            "icon": "https://play-lh.googleusercontent.com/14tetE0fFpKFo_OvTZ0CcHoT_TOjuWbZ7gbUoF_0KbVecFi5oIzqmnmykvV6w79DAv0",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The ITU World Telecommunication Standardization <br>Assembly (WTSA-24), scheduled to take place in New Delhi, India, from 15 to 24 <br>October 2024, is a significant global event that shapes the future of <br>telecommunication standards. As part of this assembly, a dedicated mobile app will <br>enhance participants&#39; experience and facilitate engagement. ITU WTSA 2024 <br>Mobile App developed by Host Country (India) will facilitate the participant,  <br>delegates and organisers by providing relevant information related to: <br>a)Logistics Information: <br>-The app will provide essential details about the arrivals, local <br>transport, accomodation, schedules, venues, and session topics. <br>-Participants can access real-time updates, ensuring they stay <br>informed throughout the event. <br>b)Agenda and Sessions: <br>-Users can view the complete agenda, including plenary sessions, <br>working group meetings, and side events. <br>-Session details, speakers, and topics will be readily available. <br>c)Networking Opportunities: <br>-The app will feature networking functionalities, allowing attendees to <br>connect with fellow participants, industry experts, and policymakers. <br>-Attendees can schedule meetings, exchange contact information, and <br>engage in discussions. <br>d)Interactive Maps: <br>-Navigating the event venue will be seamless with interactive maps. <br>-Users can find session rooms, exhibition areas, and other facilities <br>effortlessly. <br>e)Notifications and Reminders: <br>-The app will send push notifications for important announcements, <br>reminders, and last-minute changes. <br>-Participants won&#39;t miss critical sessions or updates.",
+            "scoreText": "4.7",
+            "score": 4.6666665,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.delhiwtsa24.attendee",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.delhiwtsa24.attendee/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.delhiwtsa24.attendee/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.delhiwtsa24.attendee/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.delhiwtsa24.attendee/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "DBN TPA",
+            "appId": "in.gov.usof.dbntpa",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.dbntpa",
+            "icon": "https://play-lh.googleusercontent.com/VCOaYK8HfCp1RwXUiUvXAx-TqaoChS7tyfbl1ju-Bkns6RumyqGjrAc44ou930_j4DQ",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The DBN TPA is designed to facilitate the audit of USOF mobile towers including collection and monitoring of data on equipment availability and operational status.<br>The users can login in with their provided credentials and perform survey at their designated locations. <br>They are authorized to click images of the Equipment&#39;s installed at each location and answer follow up questions. They also have options to preview their response before final submission.",
+            "scoreText": "3.9",
+            "score": 3.875,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.usof.dbntpa",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.dbntpa/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.dbntpa/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.dbntpa/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.usof.dbntpa/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "Survey Saathi",
+            "appId": "com.bharatnet.bharatnetApp",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.bharatnet.bharatnetApp",
+            "icon": "https://play-lh.googleusercontent.com/MtzNQHV2M0UpbKqMJujse1IOw10erG-OCiMm8xbvjY7dxnrHjfRpd1wT6em2Jv1QcyU",
+            "developer": {
+                "devId": "Department of Telecommunications, Govt of India",
+                "url": "http://gplayapidev.fly.dev/api/developers/Department%20of%20Telecommunications%2C%20Govt%20of%20India"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The Survey Saathi is designed to facilitate the collection and monitoring of data on equipment availability and operational status at the block level.<br>The users can login in with their provided credentials and perform survey on their designated locations. <br>They are authorized to click images of the Equipments installed at each location and answer follow up questions. They also have options to preview their response before final submission.",
+            "scoreText": "4.0",
+            "score": 4,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.bharatnet.bharatnetApp",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.bharatnet.bharatnetApp/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.bharatnet.bharatnetApp/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.bharatnet.bharatnetApp/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.bharatnet.bharatnetApp/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        }
+    ]
+}

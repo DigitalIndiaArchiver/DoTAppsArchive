@@ -1,0 +1,72 @@
+{
+    "results": [
+        {
+            "permission": "read your text messages (SMS or MMS)",
+            "type": "SMS"
+        },
+        {
+            "permission": "send SMS messages",
+            "type": "SMS"
+        },
+        {
+            "permission": "read call log",
+            "type": "Phone"
+        },
+        {
+            "permission": "read phone status and identity",
+            "type": "Phone"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
+            "permission": "read phone status and identity",
+            "type": "Device ID & call information"
+        },
+        {
+            "permission": "view network connections",
+            "type": "Other"
+        },
+        {
+            "permission": "control flashlight",
+            "type": "Other"
+        },
+        {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
+            "type": "Other"
+        },
+        {
+            "permission": "prevent device from sleeping",
+            "type": "Other"
+        },
+        {
+            "permission": "Google Play license check",
+            "type": "Other"
+        }
+    ]
+}

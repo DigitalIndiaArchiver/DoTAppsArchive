@@ -1,0 +1,34 @@
+[
+    {
+        "id": "3454bbb7-2695-44b0-a92d-fab33172e9ff",
+        "date": "2025-07-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "one stop solution to all the details of DBN schemes can get all the information in FAQ section",
+        "thumbsUp": 5,
+        "version": "2.0.0",
+        "vaf_phase1_working_offline": 2,
+        "vaf_phase1_2_step_verification": 2
+    },
+    {
+        "id": "a75658ce-d940-469c-ac41-a70318161a55",
+        "date": "2025-06-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This application has information about Digital Bharat Nidhi scheme for providing telecom access to rural areas",
+        "thumbsUp": 6,
+        "version": "2.0.0"
+    },
+    {
+        "id": "7de04210-82a7-4e94-aaf2-8b1c7aa5394a",
+        "date": "2025-06-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Users can now view an enhanced experience with access to all updated data related to site commissions, verifications, and GPS based site tracking and many more across every project all in one centralized platform.",
+        "thumbsUp": 11,
+        "version": "2.0.0"
+    }
+]

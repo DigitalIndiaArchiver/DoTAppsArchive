@@ -1,0 +1,89 @@
+[
+    {
+        "id": "0d23ddbb-1da5-4552-9c94-bc49185436eb",
+        "date": "2025-11-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": "2.0.1"
+    },
+    {
+        "id": "633d9ffe-e01e-41d8-8408-c133a5802fcd",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "issue network problems",
+        "thumbsUp": 0,
+        "version": "2.0.1",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "27c3882a-6991-42ae-8441-7609e2ef0e76",
+        "date": "2025-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ilikeit",
+        "thumbsUp": 1,
+        "version": "2.0.1",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "f311c5d9-805c-41f9-8bbd-a95591888cbc",
+        "date": "2024-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Too many errors",
+        "thumbsUp": 4,
+        "version": "2.0.1"
+    },
+    {
+        "id": "b62d1d38-4dfa-4aa5-bc36-2a0393ab3b11",
+        "date": "2024-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Too much mistakes, this app is too slow, this app erases data automatically. A lots of upgradations are required.",
+        "thumbsUp": 6,
+        "version": "2.0.1"
+    },
+    {
+        "id": "371657ca-4b72-412f-9b62-27bb33df6a3e",
+        "date": "2024-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 2,
+        "version": "2.0.1"
+    },
+    {
+        "id": "3d6870df-54b0-4e65-a579-2266a17d8a5b",
+        "date": "2024-12-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It will be helpful if the app can provide the option of clicking more than one image at site and also the ability to click images in ultrawide lens.",
+        "thumbsUp": 6,
+        "version": "2.0.1",
+        "vaf_phase1_gif_support": 2,
+        "vaf_phase1_file_sharing": 2,
+        "vaf_phase1_paid_stickers": 2
+    },
+    {
+        "id": "2d89f6eb-8e49-4cde-84b3-83194fa6710c",
+        "date": "2024-11-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice interface",
+        "thumbsUp": 0,
+        "version": null
+    }
+]
