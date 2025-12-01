@@ -1,42 +1,46 @@
 [
-    {
-        "id": "52cf5a54-3aac-4e58-8983-f6c10be2d8b0",
-        "date": "2025-11-23",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "very good",
-        "thumbsUp": 0,
-        "version": "7.5.32"
-    },
-    {
-        "id": "e627f19f-3a7f-48f0-9e6f-44959f5c2842",
-        "date": "2025-11-08",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "helpfull",
-        "thumbsUp": 1,
-        "version": null
-    },
-    {
-        "id": "3e1b6460-1d95-4208-b11d-1cadcd1398c0",
-        "date": "2025-06-16",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "very good ...",
-        "thumbsUp": 22,
-        "version": null
-    },
-    {
-        "id": "be76e8d0-6ee3-461c-94fc-56e8e3e666f5",
-        "date": "2025-01-04",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "worst",
-        "thumbsUp": 26,
-        "version": null
-    }
+  {
+    "id": "52cf5a54-3aac-4e58-8983-f6c10be2d8b0",
+    "date": "2025-11-23",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "very good",
+    "thumbsUp": 0,
+    "version": "7.5.32",
+    "wordCount": 2
+  },
+  {
+    "id": "e627f19f-3a7f-48f0-9e6f-44959f5c2842",
+    "date": "2025-11-08",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "helpfull",
+    "thumbsUp": 1,
+    "version": null,
+    "wordCount": 1
+  },
+  {
+    "id": "3e1b6460-1d95-4208-b11d-1cadcd1398c0",
+    "date": "2025-06-16",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "very good ...",
+    "thumbsUp": 22,
+    "version": null,
+    "wordCount": 3
+  },
+  {
+    "id": "be76e8d0-6ee3-461c-94fc-56e8e3e666f5",
+    "date": "2025-01-04",
+    "score": 1,
+    "scoreText": "1",
+    "title": null,
+    "text": "worst",
+    "thumbsUp": 26,
+    "version": null,
+    "wordCount": 1
+  }
 ]

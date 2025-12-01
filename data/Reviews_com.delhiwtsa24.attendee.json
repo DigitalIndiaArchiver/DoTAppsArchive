@@ -1,23 +1,25 @@
 [
-    {
-        "id": "2b78b6d9-941d-4871-b7e8-9e1cae3af7b8",
-        "date": "2025-09-03",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Very Excellent",
-        "thumbsUp": 3,
-        "version": null
-    },
-    {
-        "id": "f020f503-0607-4945-93f8-833a9477ac13",
-        "date": "2025-06-12",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "good",
-        "thumbsUp": 2,
-        "version": null,
-        "vaf_buying_tickets": 1
-    }
+  {
+    "id": "2b78b6d9-941d-4871-b7e8-9e1cae3af7b8",
+    "date": "2025-09-03",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "Very Excellent",
+    "thumbsUp": 3,
+    "version": null,
+    "wordCount": 2
+  },
+  {
+    "id": "f020f503-0607-4945-93f8-833a9477ac13",
+    "date": "2025-06-12",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "good",
+    "thumbsUp": 2,
+    "version": null,
+    "vaf_buying_tickets": 1,
+    "wordCount": 1
+  }
 ]

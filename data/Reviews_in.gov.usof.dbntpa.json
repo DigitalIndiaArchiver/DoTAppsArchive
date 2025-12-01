@@ -1,60 +1,65 @@
 [
-    {
-        "id": "bbaae054-a977-4a58-bbe2-62c2cc7c3699",
-        "date": "2025-11-01",
-        "score": 4,
-        "scoreText": "4",
-        "title": null,
-        "text": "The overall application is good for its UI/UX, however some details are not fetching from PMIS, Kindly check and fix those and update.",
-        "thumbsUp": 1,
-        "version": "6.0.0",
-        "vaf_never_display_ads_experience": null,
-        "vaf_never_display_ease_of_use": null
-    },
-    {
-        "id": "f77bd749-ab2d-4323-afd4-cb8067269e5f",
-        "date": "2025-10-28",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "SOME TOWER DETAILS NOT CHANGING FACING LOCATION ERROR PLZ HELP",
-        "thumbsUp": 1,
-        "version": "6.0.0"
-    },
-    {
-        "id": "08169ed2-a33d-41f4-9b58-346db9a727fa",
-        "date": "2025-07-04",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "great user experience",
-        "thumbsUp": 1,
-        "version": null,
-        "vaf_phase1_file_sharing": 1,
-        "vaf_phase1_voice_messaging": 2,
-        "vaf_phase1_paid_stickers": 2
-    },
-    {
-        "id": "87e2a17d-a559-433c-9f55-39b42a577329",
-        "date": "2025-06-29",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "useless app no use",
-        "thumbsUp": 4,
-        "version": "3.0.0",
-        "vaf_phase1_voice_messaging": 2,
-        "vaf_phase1_gif_support": 2,
-        "vaf_phase1_file_sharing": 2
-    },
-    {
-        "id": "e0560732-98f9-4cea-a6e3-6018a56bce0c",
-        "date": "2025-05-02",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Very nice app",
-        "thumbsUp": 1,
-        "version": null
-    }
+  {
+    "id": "bbaae054-a977-4a58-bbe2-62c2cc7c3699",
+    "date": "2025-11-01",
+    "score": 4,
+    "scoreText": "4",
+    "title": null,
+    "text": "The overall application is good for its UI/UX, however some details are not fetching from PMIS, Kindly check and fix those and update.",
+    "thumbsUp": 1,
+    "version": "6.0.0",
+    "vaf_never_display_ads_experience": null,
+    "vaf_never_display_ease_of_use": null,
+    "wordCount": 23
+  },
+  {
+    "id": "f77bd749-ab2d-4323-afd4-cb8067269e5f",
+    "date": "2025-10-28",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "SOME TOWER DETAILS NOT CHANGING FACING LOCATION ERROR PLZ HELP",
+    "thumbsUp": 1,
+    "version": "6.0.0",
+    "wordCount": 10
+  },
+  {
+    "id": "08169ed2-a33d-41f4-9b58-346db9a727fa",
+    "date": "2025-07-04",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "great user experience",
+    "thumbsUp": 1,
+    "version": null,
+    "vaf_phase1_file_sharing": 1,
+    "vaf_phase1_voice_messaging": 2,
+    "vaf_phase1_paid_stickers": 2,
+    "wordCount": 3
+  },
+  {
+    "id": "87e2a17d-a559-433c-9f55-39b42a577329",
+    "date": "2025-06-29",
+    "score": 1,
+    "scoreText": "1",
+    "title": null,
+    "text": "useless app no use",
+    "thumbsUp": 4,
+    "version": "3.0.0",
+    "vaf_phase1_voice_messaging": 2,
+    "vaf_phase1_gif_support": 2,
+    "vaf_phase1_file_sharing": 2,
+    "wordCount": 4
+  },
+  {
+    "id": "e0560732-98f9-4cea-a6e3-6018a56bce0c",
+    "date": "2025-05-02",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "Very nice app",
+    "thumbsUp": 1,
+    "version": null,
+    "wordCount": 3
+  }
 ]

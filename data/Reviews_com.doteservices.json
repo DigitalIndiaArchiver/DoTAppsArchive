@@ -1,32 +1,35 @@
 [
-    {
-        "id": "3842f635-6bdd-4378-ae5f-6bf119664ea9",
-        "date": "2025-11-23",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "very good",
-        "thumbsUp": 0,
-        "version": "1.56"
-    },
-    {
-        "id": "0d6ba85e-d22b-4908-b0be-6d141501730b",
-        "date": "2025-10-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "people communication network safety and security of economic easy to use it.",
-        "thumbsUp": 14,
-        "version": "1.41"
-    },
-    {
-        "id": "8ca9afcc-83d4-49c6-96e3-6a233006585c",
-        "date": "2025-08-07",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Very useful and efficient app! This app makes it super easy to access telecom-related services in one place. The interface is clean, and everything from licensing to service tracking works smoothly. Great initiative by DoT to simplify processes and promote digital governance. Highly recommended for telecom professionals and applicants!",
-        "thumbsUp": 9,
-        "version": null
-    }
+  {
+    "id": "3842f635-6bdd-4378-ae5f-6bf119664ea9",
+    "date": "2025-11-23",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "very good",
+    "thumbsUp": 0,
+    "version": "1.56",
+    "wordCount": 2
+  },
+  {
+    "id": "0d6ba85e-d22b-4908-b0be-6d141501730b",
+    "date": "2025-10-01",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "people communication network safety and security of economic easy to use it.",
+    "thumbsUp": 14,
+    "version": "1.41",
+    "wordCount": 12
+  },
+  {
+    "id": "8ca9afcc-83d4-49c6-96e3-6a233006585c",
+    "date": "2025-08-07",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "Very useful and efficient app! This app makes it super easy to access telecom-related services in one place. The interface is clean, and everything from licensing to service tracking works smoothly. Great initiative by DoT to simplify processes and promote digital governance. Highly recommended for telecom professionals and applicants!",
+    "thumbsUp": 9,
+    "version": null,
+    "wordCount": 49
+  }
 ]

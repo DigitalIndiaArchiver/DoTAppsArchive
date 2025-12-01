@@ -1,12 +1,13 @@
 [
-    {
-        "id": "724fbf74-1695-4d38-a260-2f74f95967ee",
-        "date": "2025-11-23",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "very good",
-        "thumbsUp": 0,
-        "version": "1.0.2"
-    }
+  {
+    "id": "724fbf74-1695-4d38-a260-2f74f95967ee",
+    "date": "2025-11-23",
+    "score": 5,
+    "scoreText": "5",
+    "title": null,
+    "text": "very good",
+    "thumbsUp": 0,
+    "version": "1.0.2",
+    "wordCount": 2
+  }
 ]
